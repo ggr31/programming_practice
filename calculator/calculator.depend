@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1654960277 source:/home/grkm/c++_examples/calculator/main.cpp
+	<iostream>
+	"calculator.h"
+
+1654960339 /home/grkm/c++_examples/calculator/include/calculator.h
+
+1654960673 source:/home/grkm/c_ws/programming_practice/calculator/main.cpp
+	<iostream>
+	"calculator.h"
+
+1654963975 /home/grkm/c_ws/programming_practice/calculator/include/calculator.h
+
+1654963999 source:/home/grkm/c_ws/programming_practice/calculator/src/calculator.cpp
+	<iostream>
+	"calculator.h"
+
